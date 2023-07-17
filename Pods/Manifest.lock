@@ -1,0 +1,77 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Kingfisher (7.7.0)
+  - Socket.IO-Client-Swift (16.0.1):
+    - Starscream (~> 4.0)
+  - Starscream (4.0.4)
+  - VirgilCrypto (5.3.0):
+    - VirgilCryptoFoundation (~> 0.12.0)
+  - VirgilCryptoFoundation (0.12.0):
+    - VSCCrypto/Common (= 0.12.0)
+    - VSCCrypto/Foundation (= 0.12.0)
+  - VirgilCryptoPythia (0.12.0):
+    - VirgilCryptoFoundation (= 0.12.0)
+    - VSCCrypto/Common (= 0.12.0)
+    - VSCCrypto/Foundation (= 0.12.0)
+    - VSCCrypto/Pythia (= 0.12.0)
+  - VirgilCryptoRatchet (0.12.0):
+    - VirgilCryptoFoundation (= 0.12.0)
+    - VSCCrypto/Common (= 0.12.0)
+    - VSCCrypto/Foundation (= 0.12.0)
+    - VSCCrypto/Ratchet (= 0.12.0)
+  - VirgilE3Kit (2.0.0):
+    - VirgilSDKPythia (~> 0.8.0)
+    - VirgilSDKRatchet (~> 0.5.0)
+  - VirgilSDK (7.2.0):
+    - VirgilCrypto (~> 5.3)
+  - VirgilSDKPythia (0.8.0):
+    - VirgilCryptoPythia (~> 0.12.0)
+    - VirgilSDK (~> 7.1)
+  - VirgilSDKRatchet (0.5.0):
+    - VirgilCryptoRatchet (~> 0.12.0)
+    - VirgilSDK (~> 7.1)
+  - VSCCrypto/Common (0.12.0)
+  - VSCCrypto/Foundation (0.12.0)
+  - VSCCrypto/Pythia (0.12.0)
+  - VSCCrypto/Ratchet (0.12.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - Socket.IO-Client-Swift
+  - VirgilE3Kit (~> 2.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Socket.IO-Client-Swift
+    - Starscream
+    - VirgilCrypto
+    - VirgilCryptoFoundation
+    - VirgilCryptoPythia
+    - VirgilCryptoRatchet
+    - VirgilE3Kit
+    - VirgilSDK
+    - VirgilSDKPythia
+    - VirgilSDKRatchet
+    - VSCCrypto
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Kingfisher: f043ac666dfc96c1f37604f93effb45a7ee3a3e1
+  Socket.IO-Client-Swift: c116d6dc9fd6be9c259bacfe143f8725bce7d79e
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  VirgilCrypto: c2831582c5230eeb2adba2365336c768cd6d8c59
+  VirgilCryptoFoundation: 79f23a7ab6db642268d31bc63b0cf54db416f089
+  VirgilCryptoPythia: 4234b6f84de6fd2448faf6628ecdce84f43650a4
+  VirgilCryptoRatchet: 5aa50ee540cdf1ff7d760fbe410e4f023f52dc18
+  VirgilE3Kit: 9d61b6af599a72d3e5c6334170987b59e9e6d82e
+  VirgilSDK: 1f67b77983f5b65a1b07e23070d78caec96614c3
+  VirgilSDKPythia: 778eb39b2c73a9d1832b9cad7eaa2cbf1be264cf
+  VirgilSDKRatchet: 9a365d3a434cda39af4e6326eaf25baeed75be68
+  VSCCrypto: e2c8df89e0dc348c2713554f6a2c8864e1cf412d
+
+PODFILE CHECKSUM: 60669dde740dd21951239d975b44f96b7332e242
+
+COCOAPODS: 1.12.1
